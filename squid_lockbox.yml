@@ -1,0 +1,132 @@
+pyrpl:
+  background_color: ''
+  dock_positions: "\0\0\0\xFF\0\0\0\0\xFD\0\0\0\x01\0\0\0\x02\0\0\x02\xF9\0\0\x04\
+    ?\xFC\x01\0\0\0\x01\xFC\0\0\0\0\0\0\x02\xF9\0\0\0]\0\xFF\xFF\xFF\xFC\x02\0\0\0\
+    \x0E\xFC\0\0\0\x15\0\0\0\x98\0\0\0\0\0\xFF\xFF\xFF\xFA\0\0\0\0\x01\0\0\0\t\xFB\
+    \0\0\0(\0i\0q\0s\0 \0(\0s\0q\0u\0i\0d\0_\0l\0o\0c\0k\0b\0o\0x\01\0)\0\0\0\0\0\xFF\
+    \xFF\xFF\xFF\0\0\0\0\0\0\0\0\xFB\0\0\0*\0p\0i\0d\0s\0 \0(\0s\0q\0u\0i\0d\0_\0\
+    l\0o\0c\0k\0b\0o\0x\01\0)\x01\0\0\0\0\xFF\xFF\xFF\xFF\0\0\0\0\0\0\0\0\xFB\0\0\0\
+    *\0i\0i\0r\0s\0 \0(\0s\0q\0u\0i\0d\0_\0l\0o\0c\0k\0b\0o\0x\01\0)\0\0\0\0\0\xFF\
+    \xFF\xFF\xFF\0\0\0\0\0\0\0\0\xFB\0\0\0,\0t\0r\0i\0g\0s\0 \0(\0s\0q\0u\0i\0d\0\
+    _\0l\0o\0c\0k\0b\0o\0x\01\0)\0\0\0\0\0\xFF\xFF\xFF\xFF\0\0\0\0\0\0\0\0\xFB\0\0\
+    \0@\0n\0e\0t\0w\0o\0r\0k\0a\0n\0a\0l\0y\0z\0e\0r\0 \0(\0s\0q\0u\0i\0d\0_\0l\0\
+    o\0c\0k\0b\0o\0x\01\0)\0\0\0\0\0\xFF\xFF\xFF\xFF\0\0\0\0\0\0\0\0\xFB\0\0\0B\0\
+    s\0p\0e\0c\0t\0r\0u\0m\0a\0n\0a\0l\0y\0z\0e\0r\0 \0(\0s\0q\0u\0i\0d\0_\0l\0o\0\
+    c\0k\0b\0o\0x\01\0)\0\0\0\0\0\xFF\xFF\xFF\xFF\0\0\0\0\0\0\0\0\xFB\0\0\08\0c\0\
+    u\0r\0v\0e\0v\0i\0e\0w\0e\0r\0 \0(\0s\0q\0u\0i\0d\0_\0l\0o\0c\0k\0b\0o\0x\01\0\
+    )\0\0\0\0\0\xFF\xFF\xFF\xFF\0\0\0\0\0\0\0\0\xFB\0\0\08\0p\0y\0r\0p\0l\0c\0o\0\
+    n\0f\0i\0g\0 \0(\0s\0q\0u\0i\0d\0_\0l\0o\0c\0k\0b\0o\0x\01\0)\0\0\0\0\0\xFF\xFF\
+    \xFF\xFF\0\0\0\0\0\0\0\0\xFB\0\0\00\0l\0o\0c\0k\0b\0o\0x\0 \0(\0s\0q\0u\0i\0d\0\
+    _\0l\0o\0c\0k\0b\0o\0x\01\0)\0\0\0\0\0\xFF\xFF\xFF\xFF\0\0\0\0\0\0\0\0\xFB\0\0\
+    \0.\0s\0c\0o\0p\0e\0s\0 \0(\0s\0q\0u\0i\0d\0_\0l\0o\0c\0k\0b\0o\0x\01\0)\x01\0\
+    \0\0\xB1\0\0\x02k\0\0\0\0\0\0\0\0\xFB\0\0\0*\0a\0s\0g\0s\0 \0(\0s\0q\0u\0i\0d\0\
+    _\0l\0o\0c\0k\0b\0o\0x\01\0)\x01\0\0\x03 \0\0\0\xAF\0\0\0\0\0\0\0\0\xFB\0\0\0\
+    &\0i\0q\0s\0 \0(\0s\0q\0u\0i\0d\0_\0l\0o\0c\0k\0b\0o\0x\0)\0\0\0\0\0\xFF\xFF\xFF\
+    \xFF\0\0\0P\0\xFF\xFF\xFF\xFB\0\0\0(\0p\0i\0d\0s\0 \0(\0s\0q\0u\0i\0d\0_\0l\0\
+    o\0c\0k\0b\0o\0x\0)\x01\0\0\0\x15\0\0\0\x8E\0\0\0P\0\xFF\xFF\xFF\xFB\0\0\0,\0\
+    s\0c\0o\0p\0e\0s\0 \0(\0s\0q\0u\0i\0d\0_\0l\0o\0c\0k\0b\0o\0x\0)\x01\0\0\0\xA7\
+    \0\0\x03Y\0\0\0P\0\xFF\xFF\xFF\xFB\0\0\0(\0a\0s\0g\0s\0 \0(\0s\0q\0u\0i\0d\0_\0\
+    l\0o\0c\0k\0b\0o\0x\0)\x01\0\0\x04\x04\0\0\0P\0\0\0P\0\xFF\xFF\xFF\xFB\0\0\0(\0\
+    i\0i\0r\0s\0 \0(\0s\0q\0u\0i\0d\0_\0l\0o\0c\0k\0b\0o\0x\0)\0\0\0\0\0\xFF\xFF\xFF\
+    \xFF\0\0\0P\0\xFF\xFF\xFF\xFB\0\0\0*\0t\0r\0i\0g\0s\0 \0(\0s\0q\0u\0i\0d\0_\0\
+    l\0o\0c\0k\0b\0o\0x\0)\0\0\0\0\0\xFF\xFF\xFF\xFF\0\0\0P\0\xFF\xFF\xFF\xFB\0\0\0\
+    >\0n\0e\0t\0w\0o\0r\0k\0a\0n\0a\0l\0y\0z\0e\0r\0 \0(\0s\0q\0u\0i\0d\0_\0l\0o\0\
+    c\0k\0b\0o\0x\0)\0\0\0\0\0\xFF\xFF\xFF\xFF\0\0\0P\0\xFF\xFF\xFF\xFB\0\0\0@\0s\0\
+    p\0e\0c\0t\0r\0u\0m\0a\0n\0a\0l\0y\0z\0e\0r\0 \0(\0s\0q\0u\0i\0d\0_\0l\0o\0c\0\
+    k\0b\0o\0x\0)\0\0\0\x03\xBA\0\0\0P\0\0\0P\0\xFF\xFF\xFF\xFB\0\0\06\0c\0u\0r\0\
+    v\0e\0v\0i\0e\0w\0e\0r\0 \0(\0s\0q\0u\0i\0d\0_\0l\0o\0c\0k\0b\0o\0x\0)\0\0\0\0\
+    \0\xFF\xFF\xFF\xFF\0\0\0P\0\xFF\xFF\xFF\xFB\0\0\06\0p\0y\0r\0p\0l\0c\0o\0n\0f\0\
+    i\0g\0 \0(\0s\0q\0u\0i\0d\0_\0l\0o\0c\0k\0b\0o\0x\0)\0\0\0\0\0\xFF\xFF\xFF\xFF\
+    \0\0\0P\0\xFF\xFF\xFF\xFB\0\0\0.\0l\0o\0c\0k\0b\0o\0x\0 \0(\0s\0q\0u\0i\0d\0_\0\
+    l\0o\0c\0k\0b\0o\0x\0)\0\0\0\0\0\xFF\xFF\xFF\xFF\0\0\0P\0\xFF\xFF\xFF\0\0\x02\xF9\
+    \0\0\0\0\0\0\0\x04\0\0\0\x04\0\0\0\b\0\0\0\b\xFC\0\0\0\0"
+  gui: true
+  loglevel: info
+  modules:
+  - NetworkAnalyzer
+  - SpectrumAnalyzer
+  - CurveViewer
+  - PyrplConfig
+  - Lockbox
+  name: squid_lockbox
+  window_position:
+  - -7
+  - 0
+  - 761
+  - 1128
+redpitaya:
+  autostart: true
+  defaultport: 2222
+  delay: 0.05
+  frequency_correction: 1.0
+  hostname: rp-F05A1A.LOCAL
+  leds_off: true
+  monitor_server_name: monitor_server
+  password: root
+  port: 2222
+  reloadfpga: true
+  reloadserver: false
+  serverbinfilename: fpga.bin
+  serverdirname: //opt//pyrpl//
+  silence_env: false
+  sshport: 22
+  timeout: 1
+  user: root
+scope:
+  curve_name: scope curve
+  rolling_mode: false
+  running_state: running_continuous
+  duration: 0.067108864
+  input1: out2
+  input2: in1
+  xy_mode: true
+  average: false
+  trace_average: 1
+  trigger_source: immediately
+  ch2_active: true
+  ch1_active: true
+  hysteresis: 0.0
+networkanalyzer:
+  curve_name: networkanalyzer curve
+spectrumanalyzer:
+  curve_name: spectrumanalyzer curve
+  input1_baseband: in2
+  display_input2_baseband: false
+  span: 1907.3486328124998
+  running_state: stopped
+lockbox:
+  sequence:
+  - outputs: {}
+asg1:
+  amplitude: 0.0
+  waveform: sin
+asg0:
+  amplitude: 1.0
+  frequency: 69.96560841798782
+  offset: 0.0
+  output_direct: 'off'
+  trigger_source: immediately
+  waveform: sin
+pid0:
+  i: -1999.9990432811114
+  input: in1
+  inputfilter:
+  - 0
+  - 0
+  - 0
+  - 0
+  max_voltage: 0.9998779296875
+  min_voltage: -1.0
+  output_direct: both
+  p: 0.0
+  setpoint: 0.0
+pid1:
+  output_direct: 'off'
+  max_voltage: 0.9998779296875
+  input: in2
+  i: 0.0
+  p: 0.0
+  setpoint: 0.0
+  min_voltage: 0.0
+pid2:
+  output_direct: 'off'
