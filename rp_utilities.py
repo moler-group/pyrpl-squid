@@ -1,5 +1,5 @@
 def relock_squid(rp, array_max=0.05, delay=0.1):
-    """ Attempts to detect if the SQUID is unlocked and relock if necessary.
+    """ Attempts to detect if the SQUID is unlocked and relock if necessary. Windows only.
         Inputs:
             - rp: Red Pitaya object as defined by rp = p.rp, where p = Pyrpl('squid_lockbox')
             - array_max: threshold for the absolute value of array voltage to detect unlocking
