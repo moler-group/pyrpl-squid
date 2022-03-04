@@ -1,6 +1,6 @@
 import time
 import msvcrt
-import pyqt
+from qtpy import QtWidgets
 
 
 def get_keypress():
@@ -8,7 +8,7 @@ def get_keypress():
 
 
 def get_gui():
-    return pyqt.QtWidgets.QApplication.instance()
+    return QtWidgets.QApplication.instance()
 
 
 def relock_squid(rp, array_max=0.05, delay=1e-3):
